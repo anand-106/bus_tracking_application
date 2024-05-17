@@ -15,7 +15,6 @@ Both applications use Firebase Realtime Database to update and retrieve the loca
 - [User App](#user-app)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
