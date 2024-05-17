@@ -56,10 +56,12 @@ The User App allows passengers to select a bus route and view the bus's current 
 ## Screenshots
 
 ### Driver App
-![Driver App Screenshot](path/to/driver-app-screenshot.png)
+![Driver App Screenshot](https://github.com/anand-106/bus_tracking_application/blob/main/screenshots/bus_driver_ss1.jpg)
+![Driver App Screenshot](https://github.com/anand-106/bus_tracking_application/blob/main/screenshots/bus_driver_ss2.jpg)
 
 ### User App
-![User App Screenshot](path/to/user-app-screenshot.png)
+![User App Screenshot](https://github.com/anand-106/bus_tracking_application/blob/main/screenshots/bus_tracking_ss1.jpg)
+![User App Screenshot](https://github.com/anand-106/bus_tracking_application/blob/main/screenshots/bus_tracking_ss2.jpg)
 
 ## Contributing
 
